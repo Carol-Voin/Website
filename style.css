@@ -16,9 +16,12 @@ h1{
 }
 
 button{
-    padding : 15px 5px;
+    padding : 5px 15px;
     border-radius: 5px;
     font-size: 20px;
     background: white;
     color: black;
+    border: none;
+    filter: drop-shadow(0 0 17px white);
 }
+
