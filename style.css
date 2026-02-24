@@ -19,7 +19,7 @@ h1{
 p{
     color:grey;
     margin:15px;
-    font-size:20;
+    font-size:20px;
 }
 
 button{
@@ -32,6 +32,7 @@ button{
     filter: drop-shadow(0 0 7px lightgrey);
     cursor:pointer;
 }
+
 
 
 
