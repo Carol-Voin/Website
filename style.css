@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1a1a1a;
+    height: 100vh;
+}
+
+h1{
+    font-size: 80px;
+    color: white;
+    filter: drop-shadow(0 0 17px white);
+    font-family: sans-serif;
+}
